@@ -1,0 +1,7 @@
+.terraform*
+keys_ssh
+*.out
+aws-key*
+azure-ey*
+*.tfvars
+*.tfstate
